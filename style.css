@@ -8,9 +8,13 @@ div{
 .Image-section{
     display: flex;
     justify-content: center;
+    height: 450px;
 }
 .Section-style{
     margin-right: 25px;
     margin-left: 25px;
-    background-color: white;
+}
+img{
+    height: 200px;
+    width: 200px
 }
